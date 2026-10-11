@@ -1,0 +1,15 @@
+{
+  "android": {
+    "version": "1.1.0",
+    "versionCode": 3,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/v1.1.0/PlayerView-Android-1.1.0.apk",
+    "sha256": "91ebd092d3c4816fd34a3b3ccf4554412650914451d4642626597306993941c4",
+    "notes": "Valor do jogador sem a sigla GP, checagem de atualização e melhorias de compatibilidade."
+  },
+  "windows": {
+    "version": "0.3.0",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/v0.3.0/PlayerView-Setup-x64-0.3.0.exe",
+    "sha256": "5073141d16de284978b92a7635a2d1c518b4c06cf9c3d4f18fe672a39993ce70",
+    "notes": "Aviso de nova versão no app e correções de interface."
+  }
+}
