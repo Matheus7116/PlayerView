@@ -7,9 +7,9 @@
     "notes": "Correção do teclado ao voltar de um jogador, versão exibida no app e melhorias de estabilidade."
   },
   "windows": {
-    "version": "0.3.2",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.2/PlayerView-Setup-x64-0.3.2.exe",
-    "sha256": "e4f07b4e5bf72925aa029f1c15d6a9ba5de84c6613a8ec0812af337ef8687778",
-    "notes": "Atualizador interno com download, verificação SHA-256 e instalação silenciosa."
+    "version": "0.3.3",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.3/PlayerView-Setup-x64-0.3.3.exe",
+    "sha256": "33d41ddbcad18759f1eb8dfd22ba46a4cdd0efd107f07fda7e97b51f04e8d6c0",
+    "notes": "Versao de teste do atualizador interno."
   }
 }
