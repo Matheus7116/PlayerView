@@ -7,9 +7,9 @@
     "notes": "Valor do jogador sem a sigla GP, checagem de atualização e melhorias de compatibilidade."
   },
   "windows": {
-    "version": "0.3.0",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/v0.3.0/PlayerView-Setup-x64-0.3.0.exe",
-    "sha256": "5073141d16de284978b92a7635a2d1c518b4c06cf9c3d4f18fe672a39993ce70",
-    "notes": "Aviso de nova versão no app e correções de interface."
+    "version": "0.3.1",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.1/PlayerView-Setup-x64-0.3.1.exe",
+    "sha256": "fc465c1c38f95e8b39b4f2502e0b9f5b626a4b00ed35555814e67a3da25cb9a7",
+    "notes": "Atualização de teste com IDs ocultos, correções de estabilidade e segurança."
   }
 }
