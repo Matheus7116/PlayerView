@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.2.2",
-    "versionCode": 6,
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.2/PlayerView-Android-1.2.2.apk",
-    "sha256": "c963843734d0408e6e9686cb83204dd151540531deb2fe571e6a2bb73217e0b7",
-    "notes": "Descricoes das 41 habilidades na ficha dos jogadores."
+    "version": "1.2.3",
+    "versionCode": 7,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.3/PlayerView-Android-1.2.3.apk",
+    "sha256": "48ca3a1ace3893c09eb2ea19f3ef256f1b666f39ad0fabc49d4aca9173fc1787",
+    "notes": "Colecoes sem corte na barra de navegacao do sistema."
   },
   "windows": {
-    "version": "0.3.6",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.6/PlayerView-Setup-x64-0.3.6.exe",
-    "sha256": "7277a37d7c1d495cb1f9a0817ee7f37415f576ea1cb9ef5cfc86778f63e72034",
-    "notes": "Correcoes de responsividade, textos maiores, adicao direta a listas e notas globais."
+    "version": "0.3.7",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.7/PlayerView-Setup-x64-0.3.7.exe",
+    "sha256": "0d02d2476a717ecd22ea9db9dea91335c291d1290a1d53b6df22b1befe04ff8d",
+    "notes": "Layout responsivo em janelas estreitas, cabecalho compacto e janela minima 800x600."
   }
 }
