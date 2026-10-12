@@ -7,9 +7,9 @@
     "notes": "Descricoes das 41 habilidades na ficha dos jogadores."
   },
   "windows": {
-    "version": "0.3.5",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.5/PlayerView-Setup-x64-0.3.5.exe",
-    "sha256": "a31b6f0d81b4075ecfe1486c871d3d35023e9246fa615c5c9ed4cc903133ce89",
-    "notes": "Descricoes das habilidades, acoes na comparacao e nova pagina de listas e notas."
+    "version": "0.3.6",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.6/PlayerView-Setup-x64-0.3.6.exe",
+    "sha256": "7277a37d7c1d495cb1f9a0817ee7f37415f576ea1cb9ef5cfc86778f63e72034",
+    "notes": "Correcoes de responsividade, textos maiores, adicao direta a listas e notas globais."
   }
 }
