@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.2.1",
-    "versionCode": 5,
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.1/PlayerView-Android-1.2.1.apk",
-    "sha256": "1e740fe2bde67a619d176aedb93866282db30a72bad89b346f57aae403adf4c1",
-    "notes": "Correcao do teclado, carregamento infinito na comparacao e versao exibida no app."
+    "version": "1.2.2",
+    "versionCode": 6,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.2/PlayerView-Android-1.2.2.apk",
+    "sha256": "c963843734d0408e6e9686cb83204dd151540531deb2fe571e6a2bb73217e0b7",
+    "notes": "Descricoes das 41 habilidades na ficha dos jogadores."
   },
   "windows": {
-    "version": "0.3.4",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.4/PlayerView-Setup-x64-0.3.4.exe",
-    "sha256": "343603697d79b988757b731c3b8f1f2524d5da49e8ce2bb312548d408f38b238",
-    "notes": "Tela de times com escudos, atualizador interno e correcoes de estabilidade."
+    "version": "0.3.5",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.5/PlayerView-Setup-x64-0.3.5.exe",
+    "sha256": "a31b6f0d81b4075ecfe1486c871d3d35023e9246fa615c5c9ed4cc903133ce89",
+    "notes": "Descricoes das habilidades, acoes na comparacao e nova pagina de listas e notas."
   }
 }
