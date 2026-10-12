@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.2.0",
-    "versionCode": 4,
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.0/PlayerView-Android-1.2.0.apk",
-    "sha256": "aab957dbaba98ccf60c32bd556621c2daf409734de11ca7ee77501e36d9a9a2a",
-    "notes": "Correção do teclado ao voltar de um jogador, versão exibida no app e melhorias de estabilidade."
+    "version": "1.2.1",
+    "versionCode": 5,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.1/PlayerView-Android-1.2.1.apk",
+    "sha256": "1e740fe2bde67a619d176aedb93866282db30a72bad89b346f57aae403adf4c1",
+    "notes": "Correcao do teclado, carregamento infinito na comparacao e versao exibida no app."
   },
   "windows": {
-    "version": "0.3.3",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.3/PlayerView-Setup-x64-0.3.3.exe",
-    "sha256": "33d41ddbcad18759f1eb8dfd22ba46a4cdd0efd107f07fda7e97b51f04e8d6c0",
-    "notes": "Versao de teste do atualizador interno."
+    "version": "0.3.4",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.4/PlayerView-Setup-x64-0.3.4.exe",
+    "sha256": "343603697d79b988757b731c3b8f1f2524d5da49e8ce2bb312548d408f38b238",
+    "notes": "Tela de times com escudos, atualizador interno e correcoes de estabilidade."
   }
 }
