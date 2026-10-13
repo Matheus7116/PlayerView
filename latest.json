@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.2.3",
-    "versionCode": 7,
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.3/PlayerView-Android-1.2.3.apk",
-    "sha256": "48ca3a1ace3893c09eb2ea19f3ef256f1b666f39ad0fabc49d4aca9173fc1787",
-    "notes": "Colecoes sem corte na barra de navegacao do sistema."
+    "version": "1.2.4",
+    "versionCode": 8,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.4/PlayerView-Android-1.2.4.apk",
+    "sha256": "f2dcbf0c7416c5d51515b1054e7b027ec25324bfd05cf15ded034f357a861943",
+    "notes": "Database da liga atualizada com 22 mudancas de clube e 20 ajustes de jogadores."
   },
   "windows": {
-    "version": "0.3.8",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.8/PlayerView-Setup-x64-0.3.8.exe",
-    "sha256": "413ffdc8860a661bf165e0e9685f49aa7615bb30ba7ac91d2d3dc563f2860842",
-    "notes": "Sem espaco morto nas abas da ficha e sem flash ao abrir jogador pela lista."
+    "version": "0.3.9",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.9/PlayerView-Setup-x64-0.3.9.exe",
+    "sha256": "a6e714920e349d6492e82192e710afea4aa9c9ae80d3dabe27f8ed05437cd510",
+    "notes": "Database da liga atualizada com 22 mudancas de clube e 20 ajustes de jogadores."
   }
 }
