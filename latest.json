@@ -7,9 +7,9 @@
     "notes": "Database da liga atualizada com 22 mudancas de clube e 20 ajustes de jogadores."
   },
   "windows": {
-    "version": "0.3.9",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.9/PlayerView-Setup-x64-0.3.9.exe",
-    "sha256": "a6e714920e349d6492e82192e710afea4aa9c9ae80d3dabe27f8ed05437cd510",
-    "notes": "Database da liga atualizada com 22 mudancas de clube e 20 ajustes de jogadores."
+    "version": "0.3.10",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.10/PlayerView-Setup-x64-0.3.10.exe",
+    "sha256": "a599945baee50b446251023e98907e18500d346d445e2826cbcda2c8d5bf1f87",
+    "notes": "A aba Comparar agora se adapta melhor a janelas menores e ganhou mais legibilidade."
   }
 }
