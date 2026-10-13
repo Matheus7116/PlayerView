@@ -7,9 +7,9 @@
     "notes": "Database da liga atualizada com 22 mudancas de clube e 20 ajustes de jogadores."
   },
   "windows": {
-    "version": "0.3.11",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.11/PlayerView-Setup-x64-0.3.11.exe",
-    "sha256": "e03c8cc287fba32053e9d6a81eec263ff84dccec285e01af2e85ab6d10998020",
-    "notes": "O botao + Lista na ficha do jogador ficou maior e mais confortavel para visualizar e clicar."
+    "version": "0.3.12",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.12/PlayerView-Setup-x64-0.3.12.exe",
+    "sha256": "9b0e00c87bd6262b6c27e5ea36716ea3a0bde5bd0cc516af475d259381fd318c",
+    "notes": "A tabela de elenco na aba Times agora pode ser ordenada por OVR e pelas demais colunas."
   }
 }
