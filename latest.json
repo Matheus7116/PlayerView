@@ -7,9 +7,9 @@
     "notes": "Database da liga atualizada com 22 mudancas de clube e 20 ajustes de jogadores."
   },
   "windows": {
-    "version": "0.3.13",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.13/PlayerView-Setup-x64-0.3.13.exe",
-    "sha256": "acb3dec903aa9f54db367732fcbd463f3e5b555171b499f6c8bb6aa877344124",
-    "notes": "O filtro de posicao agora encontra jogadores pela posicao principal e pelas posicoes secundarias com familiaridade boa ou alta."
+    "version": "0.3.14",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.14/PlayerView-Setup-x64-0.3.14.exe",
+    "sha256": "3e0187340360c0271962bed1b0aed079b29112253ac72d30e4f162d5b1533503",
+    "notes": "A ordenacao pela coluna POS agora preserva corretamente o filtro de posicao jogavel."
   }
 }
