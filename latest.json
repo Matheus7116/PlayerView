@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.2.5",
-    "versionCode": 9,
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.5/PlayerView-Android-1.2.5.apk",
-    "sha256": "2a206bf5274584df96ec410005f6b20cd839e5c2a0e6c5fccb36f33fc0d7313f",
-    "notes": "Database da liga atualizada com 28 mudancas de clube e 37 ajustes de jogadores."
+    "version": "1.2.6",
+    "versionCode": 10,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.6/PlayerView-Android-1.2.6.apk",
+    "sha256": "ed29f4bbfd81b53e35fa728fae2f2e96404e5d212879f8bae8b5ec5846892249",
+    "notes": "CEARA e SANTA CRUZ nos elencos da liga; nomes de jogadores, times e managers em MAIUSCULO; 21.228 jogadores (766 novos)."
   },
   "windows": {
-    "version": "0.3.15",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.15/PlayerView-Setup-x64-0.3.15.exe",
-    "sha256": "226fe970d90e196c47907376dc89c3df2eb20a862f170467f586bd5b27c5da44",
-    "notes": "Database da liga atualizada com 28 mudancas de clube e 37 ajustes de jogadores."
+    "version": "0.3.16",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.16/PlayerView-Setup-x64-0.3.16.exe",
+    "sha256": "1269e1b029c906f2ab70ac2293f26c240ffc248ae679acad9269ad4769ee30a2",
+    "notes": "CEARA e SANTA CRUZ nos elencos da liga; nomes de jogadores, times e managers em MAIUSCULO; 21.228 jogadores (766 novos)."
   }
 }
