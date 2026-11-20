@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.2.6",
-    "versionCode": 10,
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.6/PlayerView-Android-1.2.6.apk",
-    "sha256": "ed29f4bbfd81b53e35fa728fae2f2e96404e5d212879f8bae8b5ec5846892249",
-    "notes": "CEARA e SANTA CRUZ nos elencos da liga; nomes de jogadores, times e managers em MAIUSCULO; 21.228 jogadores (766 novos)."
+    "version": "1.2.7",
+    "versionCode": 11,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.7/PlayerView-Android-1.2.7.apk",
+    "sha256": "4059619cf93948c74ec100cae3e2bc7977514980f11ccd4770c2904a6b13ef67",
+    "notes": "Elencos atualizados do novo EDIT do PES 2021; POUSO ALEGRE e CRB entraram nos elencos; FLAMENGO passou para RAVY; nomes em MAIUSCULO."
   },
   "windows": {
-    "version": "0.3.16",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.16/PlayerView-Setup-x64-0.3.16.exe",
-    "sha256": "1269e1b029c906f2ab70ac2293f26c240ffc248ae679acad9269ad4769ee30a2",
-    "notes": "CEARA e SANTA CRUZ nos elencos da liga; nomes de jogadores, times e managers em MAIUSCULO; 21.228 jogadores (766 novos)."
+    "version": "0.3.17",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.17/PlayerView-Setup-x64-0.3.17.exe",
+    "sha256": "eb778ddd39f1d95e19a9434ef0a138dc61979326e6b679122aa7139891743c74",
+    "notes": "Elencos atualizados do novo EDIT do PES 2021; POUSO ALEGRE e CRB entraram nos elencos; FLAMENGO passou para RAVY; nomes em MAIUSCULO."
   }
 }
