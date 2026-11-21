@@ -1,15 +1,15 @@
 {
   "android": {
-    "version": "1.2.7",
-    "versionCode": 11,
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.7/PlayerView-Android-1.2.7.apk",
-    "sha256": "4059619cf93948c74ec100cae3e2bc7977514980f11ccd4770c2904a6b13ef67",
-    "notes": "Elencos atualizados do novo EDIT do PES 2021; POUSO ALEGRE e CRB entraram nos elencos; FLAMENGO passou para RAVY; nomes em MAIUSCULO."
+    "version": "1.2.8",
+    "versionCode": 12,
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/android-v1.2.8/PlayerView-Android-1.2.8.apk",
+    "sha256": "f3e4efd046ce5b57195b6b308158033b6e4244d563e0e8a3ab60713473975595",
+    "notes": "Nova base EDIT00000000; NOVO HAMBURGO, IAPE e SÃO RAIMUNDO com escudos oficiais; ATHLETICO-PR liberado no leilão; melhorias visuais, filtros completos, campinho tático e comparação."
   },
   "windows": {
-    "version": "0.3.17",
-    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.17/PlayerView-Setup-x64-0.3.17.exe",
-    "sha256": "eb778ddd39f1d95e19a9434ef0a138dc61979326e6b679122aa7139891743c74",
-    "notes": "Elencos atualizados do novo EDIT do PES 2021; POUSO ALEGRE e CRB entraram nos elencos; FLAMENGO passou para RAVY; nomes em MAIUSCULO."
+    "version": "0.3.18",
+    "url": "https://github.com/Matheus7116/PlayerView/releases/download/windows-v0.3.18/PlayerView-Setup-x64-0.3.18.exe",
+    "sha256": "debe8e7185c7407b01e70b2c831a0e898910969d1d170a1fa5827ea4a6c05460",
+    "notes": "Nova base EDIT00000000; NOVO HAMBURGO, IAPE e SÃO RAIMUNDO com escudos oficiais; ATHLETICO-PR liberado no leilão; melhorias visuais na tabela, detalhes, filtros e comparação."
   }
 }
